@@ -216,7 +216,7 @@ We can select Windows and provide the IP address where we can find the Wazuh man
 
 
 
-Let's bring a terminal with Windows11 machine and paste that command into it to see how it works.Just hit enter and confirm the action, it's as simple as that.
+Let's bring a powershell and run as administrator in Windows11 machine and paste that command into it to and see how it works.Just hit enter and confirm the action, it's as simple as that.
 
 
 
